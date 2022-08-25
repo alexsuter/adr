@@ -2,7 +2,7 @@
 
 [![Log4brains ADRs](https://alexsuter.github.io/adr/log4brains/badge.svg)](https://alexsuter.github.io/adr/log4brains/badge.svg)
 
-Use this [link](https://alexsuter.github.io/adr/log4brain) to browse all architecture decision records.
+Use this [link](https://alexsuter.github.io/adr/log4brains) to browse all architecture decision records.
 
 ## Development
 

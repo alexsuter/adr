@@ -1,0 +1,5 @@
+project:
+  name: Axon Ivy
+  tz: Europe/Zurich
+  adrFolder: ./adr
+  packages: []
